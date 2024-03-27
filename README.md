@@ -1,2 +1,2 @@
 # Gov-exemplo
-Exemplo de uso do GitFlow com GitHub, Desktop, Bash
+Exemplo de uso do GitFlow com GitHub
